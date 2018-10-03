@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4030441609",
+    "hash" : "2702975225",
     "id" : "2A5DFE0E",
-    "lastKnownWriteTime" : 1538514016,
-    "last_content_update" : 1538514016395,
+    "lastKnownWriteTime" : 1538572152,
+    "last_content_update" : 1538572152472,
     "path" : "~/R/dippa/uutta/bollinger.R",
     "project_path" : "bollinger.R",
     "properties" : {
-        "cursorPosition" : "11,0",
+        "cursorPosition" : "25,0",
         "scrollLine" : "0",
         "tempName" : "Untitled2"
     },
