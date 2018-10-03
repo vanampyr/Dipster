@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538489087027.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "101216991",
+    "id" : "51953855",
+    "lastKnownWriteTime" : 1538520761,
+    "last_content_update" : 1538520761876,
+    "path" : "~/R/dippa/uutta/carbonite.R",
+    "project_path" : "carbonite.R",
+    "properties" : {
+        "cursorPosition" : "52,2",
+        "scrollLine" : "31",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

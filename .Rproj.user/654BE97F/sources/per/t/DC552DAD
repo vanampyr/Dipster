@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538519240625.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DC552DAD",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1538519240625,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "C0E4F64C",
+        "caption" : "carbon",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=carbon&cache_key=C0E4F64C",
+        "displayedObservations" : 331,
+        "environment" : "",
+        "object" : "carbon",
+        "preview" : 0,
+        "totalObservations" : 331,
+        "variables" : 13
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

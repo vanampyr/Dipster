@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538476255309.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2974530956",
+    "id" : "5A7A893A",
+    "lastKnownWriteTime" : 1538485133,
+    "last_content_update" : 1538485133375,
+    "path" : "~/R/dippa/uutta/draw.R",
+    "project_path" : "draw.R",
+    "properties" : {
+        "cursorPosition" : "17,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

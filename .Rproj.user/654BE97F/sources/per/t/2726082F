@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538255917045.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "134978634",
+    "id" : "2726082F",
+    "lastKnownWriteTime" : 1538514016,
+    "last_content_update" : 1538514016302,
+    "path" : "~/R/dippa/uutta/nordea-sampo.R",
+    "project_path" : "nordea-sampo.R",
+    "properties" : {
+        "cursorPosition" : "9,4",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

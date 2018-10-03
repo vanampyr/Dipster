@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538485118720.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4030441609",
+    "id" : "2A5DFE0E",
+    "lastKnownWriteTime" : 1538514016,
+    "last_content_update" : 1538514016395,
+    "path" : "~/R/dippa/uutta/bollinger.R",
+    "project_path" : "bollinger.R",
+    "properties" : {
+        "cursorPosition" : "11,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
